@@ -11,7 +11,7 @@ const state = {
   language: 'en',
   timeout: '20',
   theme: 'white',
-  address: 'https://api.steemnodes.xyz',
+  address: 'https://api.steemit.com',
 };
 
 const mutations = {
