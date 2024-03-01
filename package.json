@@ -62,7 +62,6 @@
     "vue-template-compiler": "^2.6.10"
   },
   "contributors": [
-    "steem-supporter / Xpilar  (https://github.com/WoxFi)",
     "Fabien Marino <fabien@bonustrack.co> (https://github.com/bonustrack)",
     "Wiktor Tkaczyński <wiktor.tkaczynski@gmail.com> (https://github.com/Sekhmet)",
     "Johan Nordberg (https://github.com/jnordberg)",
@@ -71,10 +70,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/WoxFi/steemlogin"
+    "url": "https://gitlab.com/krishiv-g/steem-login"
   },
   "bugs": {
-    "url": "https://github.com/WoxFi/steemlogin/issues"
+    "url": "https://gitlab.com/krishiv-g/steem-login/-/issues"
   },
   "browserslist": [
     "> 1%",
