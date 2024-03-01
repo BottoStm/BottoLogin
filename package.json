@@ -2,7 +2,7 @@
   "name": "STEEM-LOGIN",
   "version": "0.1.5",
   "description": "Signer app for Steem",
-  "homepage": "https://steemlogin.xyz",
+  "homepage": "https://steemnodes.xyz",
   "main": "electron-entry.js",
   "license": "MIT",
   "scripts": {
