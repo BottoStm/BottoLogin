@@ -11,7 +11,7 @@ const state = {
   language: 'en',
   timeout: '20',
   theme: 'white',
-  address: 'http://localsteem.node:8080',
+  address: 'https://api.worldofxpilar.com',
 };
 
 const mutations = {
